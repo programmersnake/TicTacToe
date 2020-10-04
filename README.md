@@ -1,7 +1,7 @@
 # TicTacToe
 Java, JavaFX
 
-This project created with Java 15.
+This project created with Java 15 SDK.
 
 To run you need to add some text in [VM Options]:
   --module-path [yourPathToJavaFX] --add-modules javafx.controls --add-modules javafx.fxml --add-modules javafx.graphics
